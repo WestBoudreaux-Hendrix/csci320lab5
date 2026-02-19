@@ -4728,6 +4728,38 @@ textarea.form-control-lg {
   color: #101214;
 }
 
+.imageText{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.keyText{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+}
+
+#reliefZone{
+    color: green;
+}
+
+#natureZone{
+    color: rgb(129, 119, 10);
+}
+
+#animalFood{
+    color: rgb(160, 15, 15);
+}
+
+#refreshmentZone{
+    color: rgb(11, 11, 141);
+}
+
+#diagramText{
+    display: flex;
+    vertical-align: top;
+}
+
 @keyframes progress-bar-stripes {
   0% {
     background-position-x: 1rem;
